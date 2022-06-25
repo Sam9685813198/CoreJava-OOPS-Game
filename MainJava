@@ -1,0 +1,15 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        player1 player = new player1("Sam", "Sword", 100,false);
+//        System.out.println(player.getName());
+//        System.out.println(player.getHealth());
+//        System.out.println(player.getWeapon());
+
+//        player.damageByGun1();
+//        player.damageByGun1();
+//        player.damageByGun2();
+    }
+}
